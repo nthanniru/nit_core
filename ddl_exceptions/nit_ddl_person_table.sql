@@ -6,3 +6,5 @@ DOB date,
 sex char(1),
 addres varchar2(250));
 -- chages from Somi user..........
+-- this line is added by centos user 
+-- line 2 added by centOS user
