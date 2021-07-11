@@ -1,4 +1,4 @@
--- Create table
+-- Create table  Dev branch change.
 create table EMP
 (
   empno    NUMBER(4) not null,

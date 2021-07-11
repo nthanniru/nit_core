@@ -1,4 +1,4 @@
--- Creating person table
+-- Creating person table dev branch change
 create table person
 (name varchar2(25),
 loc varchar2(25),
